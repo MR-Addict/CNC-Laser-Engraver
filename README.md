@@ -1,10 +1,12 @@
 # Features
+
 - Engraving picutres, patterns text and logo.
 - Cutting some materials like papers and ply wood.
 - Help you design 2D designs.
 - Make some ornaments.
 
 # Process
+
 - Designing and build Engraver framework.
 - Sold and mount electronics and MCU on PCB.
 - Burn firmware-grbl into your MCU.
@@ -12,6 +14,7 @@
 - Finish and enjoy it!
 
 # Clip images
+
 ![Assembl](https://user-images.githubusercontent.com/75357598/134762597-f52168db-8b6a-4c37-9c4c-a8e91b04b5ee.jpg)
 
 ![Parts List](https://user-images.githubusercontent.com/75357598/135229519-10439e04-521f-4863-9862-03af1e3181b0.jpg)
